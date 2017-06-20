@@ -1,4 +1,4 @@
-# python-gramma
+# python语法特性
 
 - [编译原理](https://github.com/im-iron-man/python-gramma/blob/master/1.md)
 - [内存管理1](https://github.com/im-iron-man/python-gramma/blob/master/2.md)
