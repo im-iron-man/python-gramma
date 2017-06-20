@@ -5,6 +5,3 @@
 - [内存管理2](https://github.com/im-iron-man/python-gramma/blob/master/3.md)
 - [内置类型](https://github.com/im-iron-man/python-gramma/blob/master/4.md)
 - [函数](https://github.com/im-iron-man/python-gramma/blob/master/5.md)
-- [类]()
-- [元类]()
-- [模块]()
