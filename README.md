@@ -7,7 +7,7 @@
 - [生成器](https://github.com/im-iron-man/python-gramma/blob/master/5.md)
 - [函数](https://github.com/im-iron-man/python-gramma/blob/master/6.md)
 - [类](https://github.com/im-iron-man/python-gramma/blob/master/7.md)
-- [函数式vs面向对象](https://github.com/im-iron-man/python-gramma/blob/master/8.md)
+- [面向过程vs面向对象](https://github.com/im-iron-man/python-gramma/blob/master/8.md)
 - [元类](https://github.com/im-iron-man/python-gramma/blob/master/9.md)
 - [模块](https://github.com/im-iron-man/python-gramma/blob/master/10.md)
 - [哲学](https://github.com/im-iron-man/python-gramma/blob/master/11.md)
