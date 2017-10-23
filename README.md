@@ -11,4 +11,3 @@
 - [面向过程vs面向对象](https://github.com/im-iron-man/python-gramma/blob/master/9.md)
 - [元类](https://github.com/im-iron-man/python-gramma/blob/master/10.md)
 - [模块](https://github.com/im-iron-man/python-gramma/blob/master/11.md)
-- [哲学](https://github.com/im-iron-man/python-gramma/blob/master/12.md)
